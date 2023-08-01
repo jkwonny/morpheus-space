@@ -1,0 +1,20 @@
+.breadcrumb-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+}
+
+.breadcrumb--bold {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #292d35;
+  cursor: pointer;
+}
+
+.breadcrumb {
+  font-weight: 500;
+  color: #54575d;
+}
