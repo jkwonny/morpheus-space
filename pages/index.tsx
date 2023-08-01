@@ -45,9 +45,6 @@ export default function Home() {
 
   const selected = CDMData.find((data) => data.cdm_id === selectedId);
 
-  // [] mobile layout as well
-  // [] ReadME
-
   return (
     <>
       <Head>
