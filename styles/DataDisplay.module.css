@@ -91,4 +91,8 @@
   .bottom-container {
     flex-direction: column;
   }
+
+  .container--empty {
+    height: 200px;
+  }
 }
