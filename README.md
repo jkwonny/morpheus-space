@@ -31,7 +31,7 @@ The Gauge was probably the most interesting component I've worked on recently. A
 
 Although it isn't the best example, I wanted to make sure to include a simple loading state and error handling to make it feel more like an actual app. I mocked an API design and implemented how the loading and error states would affect the page.
 
-When I initially read through the prompt, I was considering two options for the DataTable. I recently came across a group of frontend devs that preferred creating tables out of divs, mocking the design of a table rather than using table tags because of the lack of responsiveness. Tables made with table tags aren't responsive because the tables can resist the natural flow of the page. I was tempted to give it a try because mobile views are incredibly important, but ultimately decided against it because of the tabular nature of the data.
+When I initially read through the prompt, I was considering two options for the DataTable. I recently came across a group of frontend devs that preferred creating tables out of divs, mocking the design of a table rather than using table tags because of the lack of responsiveness. Tables made with table tags aren't responsive because the tables can resist the natural flow of the page. I was tempted to give it a try because mobile views are incredibly important, but ultimately decided against it because of the tabular nature of the data. If I had a bit more time, I would priortize
 
 I hope you enjoy reading through my work - I tried to give it the best I could with the limited amount of time I had.
 
