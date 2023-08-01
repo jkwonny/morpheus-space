@@ -11,7 +11,7 @@ Starting from top, I created a Breadcrumbs component. I know this wasn't include
 
 If I had a bit more time and more data, this challenge would have been interesting to solve.
 
-The Data Display component looks simple but has many moving pieces. I personally like to draw it out. I will be attaching my drawing to the email!
+The Data Display component looks simple but has many moving pieces. I personally like to draw it out to visualize the containers, spacing, and layout. I will be uploading a picture onto the github in the morning!
 
 I chose to pass on SCSS as I found that using the BEM (block-element-modifier) naming convention provides enough specificity where I don't have to invest into nesting. BEM is a practice that I enjoy because of the ease of readability and increased organization. I've been recently been using a ton of Tailwind (Utility-based post-css) and it has been offloading a lot stress when naming classnames so I apologize for the lack of creativity when naming the classes. I do think the variable feature is important and useful in this project, but given the scope of this project, I believe it's sufficient to use CSS modules.
 

@@ -1,4 +1,3 @@
-// store.js
 import { CDMDataProps } from '@/types/CDMData';
 import { configureStore, createSlice } from '@reduxjs/toolkit';
 
